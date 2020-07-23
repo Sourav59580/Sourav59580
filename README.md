@@ -3,9 +3,9 @@
 ### Hi all 👋 I'm Sourav 
 
 <a href="https://linkedin.com/in/sourav-santra-a68905199/">
-  <img align="left" alt="Sourav's LinkdeIN" width="40px" height="18px" src="https://elisavanderplas.files.wordpress.com/2020/06/174857.png" />
+  <img align="left" alt="Sourav's LinkdeIN" width="30px" height="18px" src="https://elisavanderplas.files.wordpress.com/2020/06/174857.png" />
 </a>
-<a href="https://www.youtube.com/channel/UCWEdHn3qtkSaQifFeXQXb6Q?view_as=subscriber">
+<a href="https://github.com/Sourav59580">
   <img align="left" alt="Sourav's Github" width="27px" height="20px" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" />
 </a>
 
