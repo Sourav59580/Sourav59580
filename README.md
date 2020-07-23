@@ -1,4 +1,10 @@
-### Hi there 👋
+<img align="right" alt="GIF"  width="370px" src="./intro.gif" />
+
+### Hi all 👋 I'm Sourav
+
+<a href="https://linkedin.com/in/sourav-santra-a68905199/">
+  <img align="left" alt="Ayushi's LinkdeIN" width="40px" height="18px" src="https://elisavanderplas.files.wordpress.com/2020/06/174857.png" />
+</a>
 
 <!--
 **Sourav59580/Sourav59580** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
