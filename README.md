@@ -1,4 +1,4 @@
-<img align="right" alt="GIF"  width="370px" src="./intro.gif" />
+<img align="right" alt="GIF"  width="370px" src="https://www.andersonfrank.com/wp-content/uploads/2019/11/giphy-6.gif" />
 
 ### Hi all 👋 I'm Sourav
 
