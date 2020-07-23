@@ -18,6 +18,26 @@
 - Trying hands on Flutter
 - 🌱 I’m currently learning
 
+### I ❤️ to Work on
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="33.3%" align="center">
+        <span>VS Code</span><br><br> 
+        <img src='https://cdn.freebiesupply.com/logos/thumbs/2x/visual-studio-code-logo.png' width="40px">
+      </td>
+      <td width="33.3%" align="center">
+        <span>Android Studio</span><br><br> 
+        <img src='https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png' width="40px">
+      </td>
+      <td width="33.3%" align="center">
+        <span>Github</span><br><br> 
+        <img src='https://image.flaticon.com/icons/svg/25/25231.svg' width="40px">
+      </td> 
+     </tr>
+  </tbody>
+</table>
+
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Sourav59580&show_icons=true&hide_border=true)
 
