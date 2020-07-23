@@ -3,13 +3,23 @@
 ### Hi all 👋 I'm Sourav 
 
 <a href="https://linkedin.com/in/sourav-santra-a68905199/">
-  <img align="left" alt="Ayushi's LinkdeIN" width="40px" height="18px" src="https://elisavanderplas.files.wordpress.com/2020/06/174857.png" />
+  <img align="left" alt="Sourav's LinkdeIN" width="40px" height="18px" src="https://elisavanderplas.files.wordpress.com/2020/06/174857.png" />
+</a>
+<a href="https://www.youtube.com/channel/UCWEdHn3qtkSaQifFeXQXb6Q?view_as=subscriber">
+  <img align="left" alt="Sourav's Github" width="27px" height="20px" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" />
 </a>
 
 
-
 <br>
-- 𝗜 𝗮𝗺 𝗮 **Full Stack Develover**,
+
+- __I am a Full Stack Web Developer and Graphic Designer__
+- I am also a programmer and Technical Writer !!
+- Opensource Enthusiast
+- Trying hands on Flutter
+- 🌱 I’m currently learning
+
+
+
 
 <!--
 **Sourav59580/Sourav59580** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
