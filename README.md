@@ -18,6 +18,9 @@
 - Trying hands on Flutter
 - 🌱 I’m currently learning
 
+## Technical Skills
+<img src="https://img.shields.io/badge/html-%23FCC624.svg?&style=for-the-badge&logo=html5&logoColor=white" />    &nbsp; &nbsp;<img src="https://img.shields.io/badge/css-%2320BEFF.svg?&style=for-the-badge&logo=css3&logoColor=white" />    &nbsp; &nbsp;  <img src="https://img.shields.io/badge/javascript-%23FCC624.svg?&style=for-the-badge&logo=javascript&logoColor=white" />  &nbsp; &nbsp; <img src="https://img.shields.io/badge/jQuery-%233776AB.svg?&style=for-the-badge&logo=jQuery&logoColor=white" />  &nbsp; &nbsp; <img src="https://img.shields.io/badge/PHP-%233776AB.svg?&style=for-the-badge&logo=php&logoColor=white" /> &nbsp;  &nbsp; <img src="https://img.shields.io/badge/laravel-%23D00000.svg?&style=for-the-badge&logo=laravel&logoColor=white" />    &nbsp; &nbsp; 
+
 ## I ❤️ to Work on
 <table>
   <tbody>
