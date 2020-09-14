@@ -39,12 +39,7 @@
 </table>
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Sourav59580&show_icons=true&hide_border=false)
-
-<a href="https://github.com/Sourav59580/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Sourav59580&layout=compact&hide_border=false&show_icons=true" />
-</a>
+![Github stats](https://github-readme-stats.vercel.app/api?username=Sourav59580&show_icons=true&hide_border=false)    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sourav59580&show_icons=true&hide_border=false&layout=compact)
 
 
 
