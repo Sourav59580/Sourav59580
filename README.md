@@ -1,6 +1,7 @@
 <img align="right" alt="GIF"  width="350px" src="https://www.andersonfrank.com/wp-content/uploads/2019/11/giphy-6.gif" />
 
 ### Hi all 👋 I'm Sourav 
+![](https://komarev.com/ghpvc/?username=Sourav59580)
 
 <a href="https://linkedin.com/in/sourav-santra-a68905199/">
   <img align="left" alt="Sourav's LinkdeIN" width="30px" height="18px" src="https://elisavanderplas.files.wordpress.com/2020/06/174857.png" />
