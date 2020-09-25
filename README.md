@@ -32,7 +32,7 @@
 #### Version Control:
 <img src="https://img.shields.io/badge/github-%ca64564.svg?&style=for-the-badge&logo=github&color=black&logoColor=white" />
 
-
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Sourav59580&show_icons=true&hide_border=false)    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sourav59580&show_icons=true&hide_border=false&layout=compact)
