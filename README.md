@@ -35,7 +35,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Sourav59580&show_icons=true&hide_border=false)    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sourav59580&show_icons=true&hide_border=false&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sourav59580&show_icons=true&hide_border=false&layout=compact)![Github stats](https://github-readme-stats.vercel.app/api?username=Sourav59580&show_icons=true&hide_border=false)    
 
 
 
