@@ -29,6 +29,8 @@
 <img src="https://img.shields.io/badge/mysql-%ca64564.svg?&style=for-the-badge&logo=mysql&color=orange&logoColor=white" />    &nbsp; &nbsp;<img src="https://img.shields.io/badge/mongodb-%ca64564.svg?&style=for-the-badge&logo=mongodb&color=basil&logoColor=white" />    &nbsp; &nbsp;
 #### Development tools:
 <img src="https://img.shields.io/badge/VS CODE-%ca64564.svg?&style=for-the-badge&logo=visual-studio&color=blueviolet&logoColor=white" />  &nbsp; &nbsp;<img src="https://img.shields.io/badge/figma-%ca64564.svg?&style=for-the-badge&logo=figma&color=deeppink&logoColor=white" />    &nbsp; &nbsp; <img src="https://img.shields.io/badge/Android Studio-%ca64564.svg?&style=for-the-badge&logo=android-studio&color=success&logoColor=white" />    &nbsp; &nbsp;
+#### Cloud computing technology:
+<img src="https://img.shields.io/badge/aws-%ca64564.svg?&style=for-the-badge&logo=amazon-aws&color=orange&logoColor=white" />    &nbsp; &nbsp;
 #### Version Control:
 <img src="https://img.shields.io/badge/github-%ca64564.svg?&style=for-the-badge&logo=github&color=black&logoColor=white" />
 
