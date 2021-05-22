@@ -1,4 +1,4 @@
-<img align="right" alt="GIF"  width="350px" src="https://www.andersonfrank.com/wp-content/uploads/2019/11/giphy-6.gif" />
+<img align="right" alt="GIF"  width="350px" src="https://github.com/Sourav59580/Sourav59580/blob/master/intro.gif?raw=true" />
 
 ### Hi all 👋 I'm Sourav 
 ![](https://komarev.com/ghpvc/?username=Sourav59580)
